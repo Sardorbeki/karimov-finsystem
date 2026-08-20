@@ -1,0 +1,30 @@
+{
+  "name": "Moliya Maks - Shaxsiy & Biznes Moliyaviy Boshqaruv Tizimi",
+  "short_name": "Moliya Maks",
+  "description": "Professional darajadagi Moliya Maks boshqaruv dasturi (Neon.tech & Render.com)",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#107c41",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/moliya_maks_logo.jpg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

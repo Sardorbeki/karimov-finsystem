@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: karimov-finsystem
+    env: node
+    plan: free
+    region: oregon
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: DATABASE_URL
+        value: postgresql://neondb_owner:npg_DPEfuB63jhWF@ep-red-cell-ayayoar2-pooler.c-5.us-east-2.aws.neon.tech/neondb?sslmode=require
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 3000

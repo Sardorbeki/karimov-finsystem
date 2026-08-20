@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Shaxsiy Moliyaviy Boshqaruv Tizimi",
+  "description": "Moliya Maks - Professional darajadagi shaxsiy va korporativ moliyaviy boshqaruv tizimi - DuPont rentabellik tahlili, 3-bosqichli pul oqimlari (IAS 7), Big-4 audit tekshiruvlari, stress-test va aniq buxgalteriya balansi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
